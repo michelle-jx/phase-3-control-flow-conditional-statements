@@ -1,5 +1,5 @@
 def admin_login(username, password)
-  # your code here
+  if (username = 'user' || username = "USER") && password = '12345'
 end
 
 def hows_the_weather(temperature)
